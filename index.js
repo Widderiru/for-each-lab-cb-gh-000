@@ -8,5 +8,5 @@ function iterate (callback) {
   var array = [`test`];
   array.forEach(callback);
   return array;
-  
+
 }
